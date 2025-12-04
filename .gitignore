@@ -143,7 +143,3 @@ cython_debug/
 *~
 .DS_Store
 
-# Project specific
-input.txt
-*.txt
-!requirements.txt
