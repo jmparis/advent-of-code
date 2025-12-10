@@ -1,3 +1,7 @@
+Your puzzle answer was 4777409595.
+
+The first half of this puzzle is complete! It provides one gold star: *
+
 --- Part Two ---
 
 The Elves just remembered: they can only switch out tiles that are red or green.
